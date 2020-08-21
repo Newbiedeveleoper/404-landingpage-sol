@@ -1,1 +1,1 @@
-# 404-landingpage-sol
+# 404-landingpage-sol challenge from devchallenges.io
